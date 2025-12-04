@@ -1,82 +1,70 @@
 # Ali Madad
 
 Independent designer–engineer building systems that care.  
-Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.  
-Work spans AI agents, caregiving infrastructure, design systems, multi-agent orchestration, and applied research.
+Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.
+
+**Organizations**  
+- 🏛️ **SCTY** — https://github.com/scty-inc  
+- ❤️ **GiveCare** — https://github.com/givecareapp  
 
 ---
 
-## Core Work (Public)
-
-### GiveCare Ecosystem
-*(Public components only)*
-- **amadad** — Profile repo
-- **brandOS** — Real-time LLM + search display system (Python, MIT)
+## Featured Work
+- ⚡ **[brandOS](https://github.com/amadad/brandOS)** — Real-time LLM + search-query display system (Python, MIT)
+- 🧩 **[canvasite](https://github.com/amadad/canvasite)** — Infinite canvas with intelligent agents (TypeScript, AGPL)
+- ✏️ **[drawbot-redux](https://github.com/amadad/drawbot-redux)** — Reinventing DrawBot for computational graphics (Python)
 
 ---
 
-## Design, Interfaces & Frontends
-- **drawbot-redux** — Reinventing drawbot.com (Python)
-- **scty-toolkit** — Tools and frameworks for research/analysis (Python)
-- **scty-OS** — OS-style interaction environment (TypeScript, MIT)
-- **scty-agent-ui** — Agent UI framework (TypeScript, MIT)
-- **canvasite** — Infinite canvas + intelligent agents (TypeScript, AGPL)
-- **scty-words** — Language + writing utilities (TypeScript)
+## Agent Systems & Autonomous Frameworks
+- 🤖 **[agent-mirai](https://github.com/amadad/agent-mirai)** — Autonomous agent experimentation (Python)
+- 👁️ **[phantom-loom](https://github.com/amadad/phantom-loom)** — Spectral Social agent research (Python)
+- 🕸️ **[phantom-thread](https://github.com/amadad/phantom-thread)** — Spectral scribes experiments (Python)
+- 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
+- 🌐 **[orbo](https://github.com/amadad/orbo)** — Digital Being Framework for autonomous agents (Python, MIT)
+- 🔹 **[orb-lite](https://github.com/amadad/orb-lite)** — Minimal template for dynamic AI agents (Python, MIT)
+- ⚙️ **[ouro](https://github.com/amadad/ouro)** — Agent experimentation toolkit (Python, MIT)
+- 🎭 **[agentcy-chatdev](https://github.com/amadad/agentcy-chatdev)** — Multi-agent creative collaboration (Python)
+- 🎙️ **[uplimit-podcast](https://github.com/amadad/uplimit-podcast)** — Podcast research + topic analysis agent (Python)
+- 📄 **[winter-intern](https://github.com/amadad/winter-intern)** — Local document analysis using QwQ (Python)
+- 🔍 **[fall-intern](https://github.com/amadad/fall-intern)** — Longform research with citations (Python, MIT)
+- 📚 **[summer-intern](https://github.com/amadad/summer-intern)** — Brand dossier builder (Python, MIT)
+- 🗓️ **[automeet](https://github.com/amadad/automeet)** — Meeting intelligence agent (Python)
 
 ---
 
-## Agent Systems, Frameworks & Research
-- **agent-mirai** — Autonomous agent experimentation (Python)
-- **phantom-loom** — Spectral Social (Python)
-- **ouro** — Autonomous agents (Python, MIT)
-- **orb** — Autonomous agent framework (Python, MIT)
-- **orbo** — The Digital Being Framework (Python, MIT)
-- **orb-lite** — Minimal AI agent template (Python, MIT)
-- **eliza-starter** — Template for ElizaOS-based agents (TypeScript, MIT)
-- **house-of-persona** — Synthetic persona workbench (Python)
-- **synth** — TinyTroupe-based persona generator (Python)
-- **automeet** — Meeting intelligence agent (Python)
-- **winter-intern** — Local document analysis with QwQ (Python)
-- **fall-intern** — Longform research with citations (Python, MIT)
-- **automeet** — Meeting intelligence agent (Python)
-- **agentcy-chatdev** — Multi-agent creative collaboration (Python)
-- **uplimit-podcast** — Podcast research agent (Python)
+## Persona Systems & Synthetic Identity Work
+- 🧪 **[synth](https://github.com/amadad/synth)** — Synthetic personas with TinyTroupe (Python)
+- 🧬 **[house-of-persona](https://github.com/amadad/house-of-persona)** — Synthetic persona toolkit (Python)
 
 ---
 
-## Generative Media, Creative Tools, Experiments
-- **videomuse** — Generate custom music videos from personal footage (Python)
-- **proteus** — Generative UI experiments (Python, Apache-2.0)
-- **phantom-thread** — Spectral scribes (Python)
-- **constellation** — Brand/business intelligence acceleration (Python)
-- **disney-tips** — Curated Disney World travel tips (TypeScript)
+## Frontends, Interfaces & Design Systems
+- 🖥️ **[scty-agent-ui](https://github.com/amadad/scty-agent-ui)** — UI for AI agents (TypeScript, MIT)
+- 🪟 **[scty-OS](https://github.com/amadad/scty-OS)** — OS-style interaction model (TypeScript, MIT)
+- 🔤 **[scty-words](https://github.com/amadad/scty-words)** — Writing + language utilities (TypeScript)
 
 ---
 
-## Data + Retrieval + Knowledge Systems
-- **cite-agent** — Real-time citation-grounded answers (TypeScript, MIT)
-- **knowbot** — Knowledge-retrieval Slackbot (Python)
-- **instagram-scraper** — Twitter/Instagram scraping for datasets (Python, Unlicense)
-- **download-tweets-ai-text-gen-plus** — Twitter → AI text corpus (Python, MIT)
+## Generative Media, Creative Tools & Experiments
+- 🎞️ **[videomuse](https://github.com/amadad/videomuse)** — Generate custom music videos from home footage (Python)
+- 🧫 **[proteus](https://github.com/amadad/proteus)** — Generative UI experiments (Python, Apache-2.0)
+- 📡 **[constellation](https://github.com/amadad/constellation)** — Brand + business intelligence acceleration (Python)
+- 🧵 **[phantom-thread](https://github.com/amadad/phantom-thread)** — Spectral scribes (Python)
+- 🏰 **[disney-tips](https://github.com/amadad/disney-tips)** — Curated Disney World travel tips (TypeScript)
 
 ---
 
-## Utility & Miscellaneous
-- **ai-tutor** — iOS homework helper (Swift)
-- **agent-ui** — Agent UI experiments (TypeScript)
-- **videomuse** — Generative music-video engine (Python)
-- **summer-intern** — Brand dossier builder (Python, MIT)
+## Retrieval, Data & Knowledge Systems
+- 🧭 **[cite-agent](https://github.com/amadad/cite-agent)** — Real-time, citation-grounded answers (TypeScript, MIT)
+- 🔎 **[knowbot](https://github.com/amadad/knowbot)** — Knowledge-retrieval Slackbot (Python)
+- 📸 **[instagram-scraper](https://github.com/amadad/instagram-scraper)** — Instagram/Twitter dataset tools (Python, Unlicense)
+- 📥 **[download-tweets-ai-text-gen-plus](https://github.com/amadad/download-tweets-ai-text-gen-plus)** — Twitter→AI corpus prep (Python, MIT)
 
 ---
 
-## Forks / Legacy Work
-- **orbo / orb-lite** — Digital Being frameworks
-- **eliza-starter** — ElizaOS starter template
-- **download-tweets-ai-text-gen-plus** — Dataset bootstrapping tool
+## Mobile, Utility & Misc
+- 📱 **[ai-tutor](https://github.com/amadad/ai-tutor)** — iOS homework helper (Swift)
+- 🗃️ **[agent-ui](https://github.com/amadad/agent-ui)** — UI experiments for agent systems (TypeScript)
 
----
-
-## Contact
-- Website: https://scty.io  
-- GiveCare: https://givecareapp.com  
-- LinkedIn: https://linkedin.com/in/alimadad  
+If you want the org links at the very bottom instead of the top, say the word bottom.
