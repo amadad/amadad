@@ -17,7 +17,7 @@ Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.
 ---
 
 ## Agent Systems & Autonomous Frameworks
-- 🤖 **[agent-mirai](https://github.com/amadad/agent-mirai)** — Autonomous agent experimentation (Python)
+- 🤖 **[agent-alpha](https://github.com/amadad/agent-alpha)** — Autonomous financial agent (Python)
 - 👁️ **[phantom-loom](https://github.com/amadad/phantom-loom)** — Spectral Social agent research (Python)
 - 🕸️ **[phantom-thread](https://github.com/amadad/phantom-thread)** — Spectral scribes experiments (Python)
 - 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
