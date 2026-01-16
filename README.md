@@ -16,6 +16,7 @@ Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.
 - 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
 
 **Public**
+- 🦞 **[clawdbot](https://github.com/amadad/clawdbot)** Your own personal AI assistant. Any OS. Any Platform.
 - 💰 **[schwab-cli-tools](https://github.com/amadad/schwab-cli-tools)** — Autonomous financial agent (Python)
 - 📺 **[reterminal-e1001](https://github.com/amadad/reterminal-e1001)** - HTTP API firmware for Seeed reTerminal E1001 ePaper display
 - 🤖 **[reachy-mini](https://github.com/amadad/reachy_mini)** — Reachy Mini's SDK (Python)
