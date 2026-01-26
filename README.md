@@ -12,14 +12,14 @@ Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.
 - 🪟 **[scty-OS](https://github.com/amadad/scty-OS)** — OS-style interaction model (TypeScript, MIT)
 - 🏰 **[disney-tips](https://github.com/amadad/disney-tips)** — Curated Disney World travel tips (TypeScript)
 - 👁️ **[phantom-loom](https://github.com/amadad/phantom-loom)** — Spectral Social agent research (Python)
-- 🧩 **[forma](https://github.com/amadad/forma)** — Co-creative visual generator: meaning → structure → form (TypeScript, AGPL)
-- 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
+- 🧩 **[forma-tools](https://github.com/amadad/forma-tools)** — Co-creative visual generator: meaning → structure → form (TypeScript, AGPL)
 - 💰 **[schwab-cli-tools](https://github.com/amadad/schwab-cli-tools)** — Autonomous financial agent (Python)
 - 📺 **[reterminal-e1001](https://github.com/amadad/reterminal-e1001)** - HTTP API firmware for Seeed reTerminal E1001 ePaper display
 - 🤖 **[reachy-mini](https://github.com/amadad/reachy_mini)** — Reachy Mini's SDK (Python)
 - ✏️ **[drawbot-cli-tools](https://github.com/amadad/drawbot-cli-tools)** — Reinventing DrawBot for computational graphics (Python)
   
 **Archive**  
+- 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
 - 🕸️ **[phantom-thread](https://github.com/amadad/phantom-thread)** — Spectral scribes experiments (Python)
 - 📄 **[winter-intern](https://github.com/amadad/winter-intern)** — Local document analysis using QwQ (Python)
 - 🔍 **[fall-intern](https://github.com/amadad/fall-intern)** — Longform research with citations (Python, MIT)
