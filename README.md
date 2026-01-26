@@ -14,13 +14,10 @@ Founder, GiveCare • Principal, SCTY • Board-Certified Patient Advocate.
 - 👁️ **[phantom-loom](https://github.com/amadad/phantom-loom)** — Spectral Social agent research (Python)
 - 🧩 **[forma](https://github.com/amadad/forma)** — Co-creative visual generator: meaning → structure → form (TypeScript, AGPL)
 - 🌀 **[orb](https://github.com/amadad/orb)** — Autonomous agent framework (Python, MIT)
-
-**Public**
-- 🦞 **[clawdbot](https://github.com/amadad/clawdbot)** Your own personal AI assistant. Any OS. Any Platform.
 - 💰 **[schwab-cli-tools](https://github.com/amadad/schwab-cli-tools)** — Autonomous financial agent (Python)
 - 📺 **[reterminal-e1001](https://github.com/amadad/reterminal-e1001)** - HTTP API firmware for Seeed reTerminal E1001 ePaper display
 - 🤖 **[reachy-mini](https://github.com/amadad/reachy_mini)** — Reachy Mini's SDK (Python)
-- ✏️ **[drawbot-redux](https://github.com/amadad/drawbot-redux)** — Reinventing DrawBot for computational graphics (Python)
+- ✏️ **[drawbot-cli-tools](https://github.com/amadad/drawbot-cli-tools)** — Reinventing DrawBot for computational graphics (Python)
   
 **Archive**  
 - 🕸️ **[phantom-thread](https://github.com/amadad/phantom-thread)** — Spectral scribes experiments (Python)
